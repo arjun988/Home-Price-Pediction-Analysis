@@ -1,0 +1,2 @@
+Linear Regression MSE: 131.8821780317511
+Random Forest MSE: 2.28557225329289
